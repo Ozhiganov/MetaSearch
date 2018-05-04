@@ -83,6 +83,7 @@
 		</div>
 	</div>
 	<div class="card-heavy">
+		<p>{!! trans('spende.dsgvo') !!}</p>
 		<p>{!! trans('spende.lastschrift.10') !!}</p>
 	</div>
 @endsection

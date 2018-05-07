@@ -53,5 +53,6 @@ Das können Sie mit einer Spende auf dieser Seite tun. Oder, wenn Sie freie Such
     'bic'                       => 'BIC/Bankleitzahl',
     'betrag'                    => 'Betrag',
     'danke.message'             => 'Ihre Nachricht',
-    'dsgvo'               => 'Ihren Namen sowie Ihre Kontodaten benötigen wir, um den Spendenbeitrag von Ihrem Konto abzuheben. Falls Sie eine E-Mail Adresse angeben, nutzen wir die ausschließlich für Rückfragen. TODO: Wie lange werden die Daten gespeichert',
+    'dsgvo'                     => 'Ihren Namen sowie Ihre Kontodaten benötigen wir, um den Spendenbeitrag von Ihrem Konto abzuheben. Falls Sie eine E-Mail Adresse angeben, nutzen wir diese ausschließlich für Rückfragen.
+                                    <<<< TODO: Wie lange werden Name, Kontodaten, E-Mail gespeichert >>>>',
 ];
